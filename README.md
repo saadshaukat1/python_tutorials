@@ -1,2 +1,2 @@
 # python_tutorials
-Simple python programs
+Simple programs to learn python
